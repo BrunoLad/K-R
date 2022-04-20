@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+ * Exercise 1-17.
+ * Write a program to print all input lines that are longer
+ * than 80 characters.
+ */
+
 #define MAXLINE     1000    /* maximum input line length */
 #define THRESHOLD   80      /* print lines longer than or equal to value */
 

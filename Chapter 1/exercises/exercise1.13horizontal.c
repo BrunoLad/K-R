@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/*
+ * Exercise 1-13 - HORIZONTAL VERSION
+ * Write a program to print a histogram of the lengths of words
+ * in its input. It is easy to draw the histogram with the bars
+ * horizontal; a vertical orientation is more challenging.
+ */
+
 #define MAXWORDLEN  20  /* maximum interval for histogram */
 #define IN          1   /* from past codes/exercises */
 #define OUT         0
