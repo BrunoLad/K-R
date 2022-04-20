@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+ * Exercise 1-14.
+ * Write a program to print a histogram of the frequencies
+ * of different characters in its input.
+ */
+
 #define ASCIILENGTH 128 // basic ascii table
 
 int main() {
