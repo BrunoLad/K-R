@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+ * Exercise 2-2.
+ * Write a loop equivalent to the for loop above
+ * without using && or ||.
+ */
+
 #define MAXLINE     1000    /* maximum input line length */
 
 int getline(char line[], int maxline);
